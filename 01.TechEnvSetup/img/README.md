@@ -28,13 +28,14 @@ Git is a distributed version control software that tracks versions of files. It 
 ![Git](./2.GitDownload.png)
 * Run the installation file 
 * After installation is complete, launch Git by opening Git Bash from the Start Menu
-![Git_screen](./2.GitInstalled.png)
+* Test Git by checking the version installed. Type "git --version command" to display version
+![Git_version](./2.GitInstalled.png) 
 
 
 ### 3. Installation of Virtual box 
 VirtualBox is a general-purpose full virtualization software for x86_64 hardware, targeted at laptop, desktop, server and embedded use. It allows users to create and run virtual machines on their computers. This enables users to run multiple operating systems simultaneously, such as running Windows on a Linux machine, or vice versa, without needing separate physical computers.
 
-#### Windows Installation
+*Windows Installation*
 * Download Oracle virtualbox from [Virtualbox.org](https://www.virtualbox.org/wiki/Downloads)
 ![VB](./3.VirtualBoxDownload.png)
 * Locate the .exe file and run the installer by double-clicking the executable file
@@ -47,6 +48,9 @@ VirtualBox is a general-purpose full virtualization software for x86_64 hardware
 * Start the Oracle virtualbox and add new machine
 * Name the new machine Ubuntu and complete the process
 ![Ubuntu_VB](./4.UbuntuInstalled.png)
+![Ubuntu_VB2](./4.UbuntuInstalledRun2.png)
+![Ubuntu_VB2](./4.UbuntuInstalledRun3.png)
+![Ubuntu_VB2](./4.UbuntuInstalledRun4.png)
 
 
 ### 5. Creation of Github account
@@ -65,3 +69,36 @@ Fill out your profile details, add a profile picture, and set your preferences (
 #### Start Using GitHub: 
 You can now create repositories, follow other users, and collaborate on projects.
 ![GitHub](./5.GitHubAccount.png)
+
+
+
+### 5. Creation of AWS account
+
+* Go to the AWS Registration Page
+Visit the official [AWS sign-up page](https://portal.aws.amazon.com/billing/signup)
+
+* Enter Your Email and Choose an Account Name
+
+* Provide a valid email address.
+Choose a strong password and enter your AWS account name (this can be your company or personal name).
+
+#### Contact Information
+
+* Choose “Personal” or “Professional” account type.
+Enter your full name, address, and phone number.
+
+#### Payment Information
+
+* Enter your credit/debit card details. AWS needs this for identity verification and billing (note: you’ll only be charged for resources you use beyond the free tier).
+
+#### Identity Verification
+
+* Enter the verification code sent to your phone via SMS or voice call.
+* Select a Support Plan
+
+You can start with the “Basic” support plan (free) and upgrade later if needed.
+
+#### Sign In to the Console
+
+* After successful registration and verification, sign in to the [AWS Management Console](https://aws.amazon.com/console/)
+![AWS](./6.AWS_account.png)
